@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: "EB Garamond", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 5;
+}
+
+button {
+    background-color: grey;
+    color: whitesmoke;
+}
